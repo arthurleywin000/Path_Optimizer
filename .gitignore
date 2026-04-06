@@ -1,0 +1,17 @@
+# Java
+target/
+*.class
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
